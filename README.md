@@ -111,3 +111,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
   - Bootstrap for the modern and responsive design.
   - Django documentation for backend development.
      
+## License
+
+This project is licensed under the MIT License.
